@@ -16,7 +16,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/krn966"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="krn966" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krn966&show_icons=true&locale=en&layout=compact" alt="krn966" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krn966&show_icons=true&locale=en" alt="krn966" /></p>
 
